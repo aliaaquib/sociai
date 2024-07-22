@@ -6,7 +6,7 @@ import { ClerkProvider } from "@clerk/nextjs";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Writer Ai",
+  title: "Soci Ai",
   description: "Effortlessly create engaging, high-quality social media posts with our AI-driven platform",
 };
 
